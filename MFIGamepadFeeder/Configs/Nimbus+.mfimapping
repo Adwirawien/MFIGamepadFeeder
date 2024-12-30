@@ -1,0 +1,194 @@
+{
+  "MappingItems": [
+    {
+      "Type": 3,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": null,
+      "AxisType": null,
+      "CustomIndex": null,
+      "CustomValue": null
+    },
+    {
+      "Type": 0,
+      "InvertAxis": false,
+      "ConvertAxis": true,
+      "ButtonType": null,
+      "AxisType": 2,
+      "CustomIndex": null,
+      "CustomValue": null
+    },
+    {
+      "Type": 0,
+      "InvertAxis": false,
+      "ConvertAxis": true,
+      "ButtonType": null,
+      "AxisType": 3,
+      "CustomIndex": null,
+      "CustomValue": null
+    },
+    {
+      "Type": 0,
+      "InvertAxis": false,
+      "ConvertAxis": true,
+      "ButtonType": null,
+      "AxisType": 0,
+      "CustomIndex": null,
+      "CustomValue": null
+    },
+    {
+      "Type": 0,
+      "InvertAxis": false,
+      "ConvertAxis": true,
+      "ButtonType": null,
+      "AxisType": 1,
+      "CustomIndex": null,
+      "CustomValue": null
+    },
+    {
+      "Type": 0,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": null,
+      "AxisType": 4,
+      "CustomIndex": null,
+      "CustomValue": null
+    },
+    {
+      "Type": 0,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": null,
+      "AxisType": 5,
+      "CustomIndex": null,
+      "CustomValue": null
+    },
+    {
+      "Type": 2,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 1,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 1
+    },
+    {
+      "Type": 2,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 8,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 2
+    },
+    {
+      "Type": 2,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 2,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 4
+    },
+    {
+      "Type": 2,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 4,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 8
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 4096,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 16
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 8192,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 32
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 16384,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 64
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 32768,
+      "AxisType": null,
+      "CustomIndex": 7,
+      "CustomValue": 128
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 256,
+      "AxisType": null,
+      "CustomIndex": 8,
+      "CustomValue": 1
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 512,
+      "AxisType": null,
+      "CustomIndex": 8,
+      "CustomValue": 2
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 64,
+      "AxisType": null,
+      "CustomIndex": 8,
+      "CustomValue": 4
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 128,
+      "AxisType": null,
+      "CustomIndex": 8,
+      "CustomValue": 8
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 32,
+      "AxisType": null,
+      "CustomIndex": 8,
+      "CustomValue": 32
+    },
+    {
+      "Type": 1,
+      "InvertAxis": false,
+      "ConvertAxis": false,
+      "ButtonType": 16,
+      "AxisType": null,
+      "CustomIndex": 8,
+      "CustomValue": 64
+    }
+  ],
+  "VirtualKeysItems": []
+}
